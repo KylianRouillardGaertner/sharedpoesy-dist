@@ -1,4 +1,5 @@
-Deploy  
+name:
+Deploy    
     
 # Controls when the action will run.   
 on:  
